@@ -41,7 +41,7 @@ var users=[
 ];
 const loginForm=document.getElementById('loginForm');
 const loginButton=document.getElementById('loginButton');
-
+const errormsg=document.getElementById("error");
 loginButton.addEventListener("click",function(e){
     e.preventDefault();
 users.forEach(item=>{
@@ -53,7 +53,10 @@ if(loginForm.email.value===item.email&&loginForm.password.value==item.password)
 
 }
 else{
-    console.log('error')
+
+    console.log('error');
+    errormsg.innerHTML='invalid email or password!!';
+
 }
 });
 

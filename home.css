@@ -46,3 +46,8 @@ justify-content: center;
 #del{
     background-color: rgb(247, 29, 29);
 }
+#error{
+    border: 1px solid red;
+
+
+}
