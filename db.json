@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "imgUrl": "https://example.com/images/wireless-mouse.jpg",
+        "description": "Ergonomic wireless mouse with adjustable DPI."
+    },
+    {
+        "name": "Bluetooth Headphones",
+        "price": 59.99,
+        "imgUrl": "https://example.com/images/bluetooth-headphones.jpg",
+        "description": "Noise-cancelling headphones with a comfortable fit."
+    },
+    {
+        "name": "Smartphone Stand",
+        "price": 15.49,
+        "imgUrl": "https://example.com/images/smartphone-stand.jpg",
+        "description": "Adjustable stand compatible with all smartphones."
+    },
+    {
+        "name": "Laptop Backpack",
+        "price": 45.00,
+        "imgUrl": "https://example.com/images/laptop-backpack.jpg",
+        "description": "Stylish and spacious backpack for laptops up to 15 inches."
+    },
+    {
+        "name": "4K UHD Monitor",
+        "price": 299.99,
+        "imgUrl": "https://example.com/images/4k-monitor.jpg",
+        "description": "High-resolution monitor with vibrant colors."
+    },
+    {
+        "name": "Portable Charger",
+        "price": 29.99,
+        "imgUrl": "https://example.com/images/portable-charger.jpg",
+        "description": "Compact power bank with fast charging capabilities."
+    },
+    {
+        "name": "Wireless Keyboard",
+        "price": 39.99,
+        "imgUrl": "https://example.com/images/wireless-keyboard.jpg",
+        "description": "Sleek wireless keyboard with a quiet typing experience."
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": 49.99,
+        "imgUrl": "https://example.com/images/fitness-tracker.jpg",
+        "description": "Monitor your health and fitness with ease."
+    },
+    {
+        "name": "Smart Thermostat",
+        "price": 129.99,
+        "imgUrl": "https://example.com/images/smart-thermostat.jpg",
+        "description": "Energy-saving thermostat with smart features."
+    },
+    {
+        "name": "HD Webcam",
+        "price": 69.99,
+        "imgUrl": "https://example.com/images/hd-webcam.jpg",
+        "description": "High-definition webcam for clear video calls."
+    },
+    {
+        "name": "Gaming Chair",
+        "price": 199.99,
+        "imgUrl": "https://example.com/images/gaming-chair.jpg",
+        "description": "Ergonomic chair designed for long gaming sessions."
+    },
+    {
+        "name": "External Hard Drive",
+        "price": 89.99,
+        "imgUrl": "https://example.com/images/external-hard-drive.jpg",
+        "description": "1TB storage capacity with fast transfer speeds."
+    },
+    {
+        "name": "Smart Light Bulb",
+        "price": 19.99,
+        "imgUrl": "https://example.com/images/smart-light-bulb.jpg",
+        "description": "Wi-Fi enabled light bulb with adjustable brightness."
+    },
+    {
+        "name": "Action Camera",
+        "price": 149.99,
+        "imgUrl": "https://example.com/images/action-camera.jpg",
+        "description": "Waterproof action camera for adventure seekers."
+    },
+    {
+        "name": "VR Headset",
+        "price": 299.99,
+        "imgUrl": "https://example.com/images/vr-headset.jpg",
+        "description": "Immersive virtual reality experience."
+    },
+    {
+        "name": "Digital Photo Frame",
+        "price": 79.99,
+        "imgUrl": "https://example.com/images/digital-photo-frame.jpg",
+        "description": "Display your favorite photos in digital format."
+    },
+    {
+        "name": "E-Reader",
+        "price": 129.99,
+        "imgUrl": "https://example.com/images/e-reader.jpg",
+        "description": "Lightweight e-reader with a glare-free display."
+    },
+    {
+        "name": "Smartwatch",
+        "price": 199.99,
+        "imgUrl": "https://example.com/images/smartwatch.jpg",
+        "description": "Stay connected and track your health on the go."
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": 89.99,
+        "imgUrl": "https://example.com/images/wireless-earbuds.jpg",
+        "description": "Compact earbuds with rich sound quality."
+    },
+    {
+        "name": "Car Phone Mount",
+        "price": 12.99,
+        "imgUrl": "https://example.com/images/car-phone-mount.jpg",
+        "description": "Securely mount your phone for hands-free navigation."
+    },
+    {
+        "name": "USB-C Hub",
+        "price": 34.99,
+        "imgUrl": "https://example.com/images/usb-c-hub.jpg",
+        "description": "Expand your connectivity options with multiple ports."
+    },
+    {
+        "name": "Stylus Pen",
+        "price": 19.99,
+        "imgUrl": "https://example.com/images/stylus-pen.jpg",
+        "description": "Precision stylus for touchscreens and tablets."
+    },
+    {
+        "name": "Gaming Mouse Pad",
+        "price": 24.99,
+        "imgUrl": "https://example.com/images/gaming-mouse-pad.jpg",
+        "description": "Large mouse pad designed for gamers."
+    },
+    {
+        "name": "Soundbar",
+        "price": 129.99,
+        "imgUrl": "https://example.com/images/soundbar.jpg",
+        "description": "Enhance your home theater experience with rich sound."
+    },
+    {
+        "name": "HDMI Cable",
+        "price": 9.99,
+        "imgUrl": "https://example.com/images/hdmi-cable.jpg",
+        "description": "High-speed HDMI cable for 4K devices."
+    },
+    {
+        "name": "Fitness Resistance Bands",
+        "price": 22.99,
+        "imgUrl": "https://example.com/images/resistance-bands.jpg",
+        "description": "Versatile bands for strength training and flexibility."
+    },
+    {
+        "name": "Coffee Maker",
+        "price": 79.99,
+        "imgUrl": "https://example.com/images/coffee-maker.jpg",
+        "description": "Brew your favorite coffee with ease."
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 39.99,
+        "imgUrl": "https://example.com/images/electric-kettle.jpg",
+        "description": "Rapid boiling kettle for hot beverages."
+    },
+    {
+        "name": "Air Fryer",
+        "price": 99.99,
+        "imgUrl": "https://example.com/images/air-fryer.jpg",
+        "description": "Healthier frying option with less oil."
+    },
+    {
+        "name": "Robot Vacuum",
+        "price": 249.99,
+        "imgUrl": "https://example.com/images/robot-vacuum.jpg",
+        "description": "Smart vacuum cleaner for hassle-free cleaning."
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "price": 39.99,
+        "imgUrl": "https://example.com/images/portable-bluetooth-speaker.jpg",
+        "description": "Compact speaker with powerful sound."
+    }
+]
+
+
